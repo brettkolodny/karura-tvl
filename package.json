@@ -1,0 +1,11 @@
+{
+  "name": "karura-tvl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@acala-network/api": "^3.0.2",
+    "@polkadot/api": "^6.12.1",
+    "coingecko-api": "^1.0.10"
+  }
+}
